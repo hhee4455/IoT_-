@@ -1,6 +1,8 @@
 package inhatc.cse.spring.basic;
 
-public class HundaiMaker implements Maker{
+import inhatc.cse.spring.interfaces.Maker;
+
+public class HundaiMaker implements Maker {
 
         @Override
         public Car sell(Money money) {

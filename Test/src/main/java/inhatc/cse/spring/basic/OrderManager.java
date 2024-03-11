@@ -1,7 +1,5 @@
 package inhatc.cse.spring.basic;
 
-import inhatc.cse.spring.basic.Maker;
-
 public class OrderManager {
     private Maker maker;
 
