@@ -54,4 +54,6 @@ public class Student {
     public void setWeight(double weight) {
         this.weight = weight;
     }
+
+
 }
